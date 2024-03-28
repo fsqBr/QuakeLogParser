@@ -113,7 +113,16 @@ All the results returns a Json file and its possible to save **[Save Report butt
       "MOD_FALLING": 1
     }
   },
-}
-```
+
+**[possibility of improvements]**
+
+01 - Option or checkbox to set to 0 when the score is negative
+02 - Filter by name, weapon
+03 - Load log file from http or open file component
+04 - Improve the unit tests like negative cases
+05 - Get the total game time
+06 - Option to order by game with highest deaths
+07 - Group by name to get all the player status for the entire log file
+
 
 **This approach was made to be as simple and direct as possible and easy to maintain.**
